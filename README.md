@@ -59,7 +59,7 @@ I care about three things:
 
 ## `02` — SELECTED WORK
 
-### Things I've built
+### Things I've built 
 
 </div>
 
